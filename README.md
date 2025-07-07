@@ -4,14 +4,14 @@ Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología y el de
 
 ## 💻 Mi stack tecnológico
 
-[![React](https://img.shields.io/badge/React-blue?logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-purple?logo=vite)](https://vitejs.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap)](https://getbootstrap.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django)](https://www.djangoproject.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git)](https://git-scm.com/)
+[![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=61DAFB&color=2D2D2D)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=646CFF&color=2D2D2D)](https://vitejs.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=7952B3&color=2D2D2D)](https://getbootstrap.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=3776AB&color=2D2D2D)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=092E20&color=2D2D2D)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=336791&color=2D2D2D)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=4479A1&color=2D2D2D)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=F05032&color=2D2D2D)](https://git-scm.com/)
 
 ## 🚀 Proyectos en los que he trabajado
 
