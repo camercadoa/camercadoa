@@ -35,12 +35,8 @@ A nivel laboral he participado en:
 </div>
 
 ### 📫 Contáctame
-
-<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camercadoa-0A66C2?logo=linkedin)](https://www.linkedin.com/in/camercadoa/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-336791)](https://portfolio-camercadoa-projects.vercel.app/)
-
-</div>
 
   
