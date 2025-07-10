@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología y el de
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React_+_Vite-646CFF)](https://react.dev/)
+[![React](https://img.shields.io/badge/React_(Vite)-646CFF)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)](https://getbootstrap.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20)](https://www.djangoproject.com/)
