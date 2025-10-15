@@ -1,36 +1,80 @@
-<div align="center">
-  
-# 👋 ¡Hola! Soy Camilo Mercado <img align ="center" src="https://komarev.com/ghpvc/?username=camercadoa&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
+# 👋 ¡Hola! Soy Camilo Mercado  <img align="right" src="https://komarev.com/ghpvc/?username=camercadoa&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas">
 
-Soy estudiante de Ingeniería de Sistemas con pasión por la tecnología y el desarrollo de software. Me gusta aprender día a día para mejorar mis habilidades como desarrollador y aportar valor en cada proyecto en el que participo. Estas son las tecnologías que he aprendido a lo largo de mi carrera como desarrollador:
+<div align="center">
+
+### 💻 Programador Junior · Python · Django · JavaScript
 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,java,nodejs,django,html,css,js,react,postgres,vscode,git,postman&perline=20"  />
+<i>“El aprendizaje constante y la pasión por la tecnología son las claves para crear soluciones que transforman.”</i>
 </p>
-  
-### 🚀 Proyectos en los que he trabajado
 
-<div align="left">
-
-Como estudiante he desarrollado y participado en distintos proyectos académicos, entre los que se destacan:
-
-- **Digiturnos:** Sistema de gestión de turnos con ESP32 y aplicaciones web para su monitoreo.
-- **Minería de Datos v1.0:** Aplicación para la exploración y análisis de archivos CSV con generación de estadísticas y gráficos.
-
-A nivel laboral he participado en:
-- **SIUC:** Sistema para la gestión académica de una institución, orientado a la automatización de procesos administrativos en el área de Talento Humano (En desarrollo).
-- **Control de Asistencia:** Sistema para el control de ingreso y salida del personal administrativo (En desarrollo).
-
-</div>
-
-### Contacto
-
+<p align="center">
 <a href="https://www.linkedin.com/in/camercadoa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  
 <a href="mailto:mercadoarizacamilo@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/camercadoa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </div>
+
+#
+
+### 🧠 **Sobre mí**
+
+Soy **estudiante de Ingeniería de Sistemas** con experiencia en el desarrollo de **aplicaciones web Full Stack** usando **Django**, **HTML**, **CSS** y **JavaScript**.  
+Me apasiona la **automatización de procesos** y la **optimización del flujo de trabajo** a través de soluciones tecnológicas eficientes.  
+Busco aprender constantemente, aplicar **buenas prácticas de desarrollo** y contribuir con **proyectos de calidad**, colaborando en equipos ágiles y orientados a resultados.
+
+#
+
+### ⚙️ **Tecnologías y herramientas**
+
+<p align="center">
+<img width="650px" src="https://skillicons.dev/icons?i=py,django,html,css,js,react,postgres,git,nodejs,vscode,postman,figma&perline=12" />
+</p>
+
+#
+
+### 🚀 **Proyectos destacados**
+
+📘 **Aplicativo Web para Control de Asistencias** *(en producción)*  
+Desarrollo Full Stack de un sistema para registrar, consultar y gestionar la asistencia del personal administrativo de **UNICORSALUD**.  
+🧩 *Tecnologías:* Django, Bootstrap, JavaScript, PostgreSQL  
+⚙️ *Responsabilidades:* análisis de requerimientos, diseño de base de datos, desarrollo, pruebas y despliegue.
+
+💼 **Sistema de Gestión de Contratos – UNICORSALUD** *(en producción)*  
+Aplicativo web para la automatización y trazabilidad de contratos de docentes y administrativos.  
+🛠️ *Stack:* Django, HTML, CSS, JavaScript, PostgreSQL  
+👥 *Metodología:* Scrum · Git · CI/CD
+
+📊 **Minería de Datos v1.0**  
+Aplicación para la exploración y análisis de archivos CSV, con generación automática de estadísticas y gráficos dinámicos.
+
+🔌 **Digiturnos (IoT)**  
+Sistema de gestión de turnos desarrollado con **ESP32**, incluyendo una interfaz web para monitoreo en tiempo real.
+
+#
+
+### 🤝 **Habilidades blandas**
+
+> Trabajo en equipo · Adaptabilidad · Comunicación efectiva · Resolución de problemas · Aprendizaje continuo
+
+#
+
+### 🎓 **Formación académica**
+
+- **Ingeniería de Sistemas y Computación** — Corporación Universitaria Latinoamericana (CUL) *(2021 - En curso)*  
+- **Técnico en Mantenimiento de Equipos de Cómputo** — SENA *(2021 - 2022)*  
+
+#
+
+### 📜 **Certificaciones**
+
+- **Scrum Master y Product Owner** — Udemy *(2023)*
+
+#
