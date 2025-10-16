@@ -24,19 +24,23 @@
 
 #
 
+### ⚙️ **Tecnologías y herramientas**
+
+<p align="center">
+<img width="650px" src="https://skillicons.dev/icons?i=py,django,html,css,js,react,postgres,git,nodejs,vscode,postman,figma&perline=12" />
+</p>
+
+#
+
 ### 🧠 **Sobre mí**
 
 Soy **estudiante de Ingeniería de Sistemas** con experiencia en el desarrollo de **aplicaciones web Full Stack** usando **Django**, **HTML**, **CSS** y **JavaScript**.  
 Me apasiona la **automatización de procesos** y la **optimización del flujo de trabajo** a través de soluciones tecnológicas eficientes.  
 Busco aprender constantemente, aplicar **buenas prácticas de desarrollo** y contribuir con **proyectos de calidad**, colaborando en equipos ágiles y orientados a resultados.
 
-#
+### 🤝 **Habilidades blandas**
 
-### ⚙️ **Tecnologías y herramientas**
-
-<p align="center">
-<img width="650px" src="https://skillicons.dev/icons?i=py,django,html,css,js,react,postgres,git,nodejs,vscode,postman,figma&perline=12" />
-</p>
+> Trabajo en equipo · Adaptabilidad · Comunicación efectiva · Resolución de problemas · Aprendizaje continuo
 
 #
 
@@ -58,23 +62,4 @@ Aplicación para la exploración y análisis de archivos CSV, con generación au
 🔌 **Digiturnos (IoT)**  
 Sistema de gestión de turnos desarrollado con **ESP32**, incluyendo una interfaz web para monitoreo en tiempo real.
 
-#
 
-### 🤝 **Habilidades blandas**
-
-> Trabajo en equipo · Adaptabilidad · Comunicación efectiva · Resolución de problemas · Aprendizaje continuo
-
-#
-
-### 🎓 **Formación académica**
-
-- **Ingeniería de Sistemas y Computación** — Corporación Universitaria Latinoamericana (CUL) *(2021 - En curso)*  
-- **Técnico en Mantenimiento de Equipos de Cómputo** — SENA *(2021 - 2022)*  
-
-#
-
-### 📜 **Certificaciones**
-
-- **Scrum Master y Product Owner** — Udemy *(2023)*
-
-#
