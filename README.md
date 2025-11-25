@@ -34,7 +34,7 @@
 
 ### 🧠 **Sobre mí**
 
-Soy **estudiante de Ingeniería de Sistemas** con experiencia en el desarrollo de **aplicaciones web Full Stack** usando **Django**, **HTML**, **CSS** y **JavaScript**.  
+Soy **Ingeniero de Sistemas** con experiencia en el desarrollo de **aplicaciones web Full Stack** usando **Django**, **HTML**, **CSS** y **JavaScript**.  
 Me apasiona la **automatización de procesos** y la **optimización del flujo de trabajo** a través de soluciones tecnológicas eficientes.  
 Busco aprender constantemente, aplicar **buenas prácticas de desarrollo** y contribuir con **proyectos de calidad**, colaborando en equipos ágiles y orientados a resultados.
 
