@@ -13,6 +13,6 @@ Soy **Ingeniero de Sistemas** con experiencia junior en el desarrollo de **aplic
 > Trabajo en equipo · Adaptabilidad · Comunicación efectiva · Resolución de problemas · Aprendizaje continuo
 
 ### Contacto
-[![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://skillicons.dev](https://www.linkedin.com/in/camercadoa/))
-[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mercadoarizacamilo@gmail.com)
-[![My Skills](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camercadoa)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/camercadoa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:mercadoarizacamilo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-280459?logo=devbox&logoColor=fff&style=for-the-badge)](https://portfolio-camercadoa.vercel.app)
